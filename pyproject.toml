@@ -15,6 +15,7 @@ psutil = "^5.9.8"
 asyncio = "^3.4.3"
 adtk = "^0.6.2"
 asyncpg = "^0.29.0"
+requests = "^2.31.0"
 
 
 [tool.poetry.group.dev.dependencies]

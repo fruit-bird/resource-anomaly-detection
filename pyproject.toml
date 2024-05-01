@@ -16,6 +16,16 @@ asyncio = "^3.4.3"
 adtk = "^0.6.2"
 asyncpg = "^0.29.0"
 requests = "^2.31.0"
+pandas = "^2.2.2"
+ipykernel = "^6.29.4"
+sqlalchemy = "^2.0.29"
+psycopg2-binary = "^2.9.9"
+seaborn = "^0.13.2"
+matplotlib = "^3.8.4"
+streamlit = "^1.33.0"
+python-dotenv = "^1.0.1"
+altair = "^5.3.0"
+mpld3 = "^0.5.10"
 
 
 [tool.poetry.group.dev.dependencies]
